@@ -7,6 +7,7 @@
 #define ALIVE '*'
 #define DEAD ' '
 
+// git test
 void init_board(char board[HEIGHT][WIDTH])
 {
     for (int i = 0; i < HEIGHT; i++)
